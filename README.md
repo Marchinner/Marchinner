@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marchinner&label=Profile%20views&color=0e75b6&style=flat" alt="marchinner" /> </p>
 
-Sou ex-graduando de Licenciatura em Física-IFSP e resolvi reoptar pelo curso de Tecnólogo em Sistemas para Internet-IFSP por ser apaixonado por tecnologias e viver a maior parte da vida na frente de um computador.
+I am an ex-graduate student in Physics at IFSP and I decided to re-opt for the Technologist course in Internet Systems because I am passionate about technologies and live most of my life in front of a computer.
 
 - 🌱 I’m currently learning:
 
