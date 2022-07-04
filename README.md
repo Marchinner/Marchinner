@@ -35,4 +35,5 @@ I am an ex-graduate student in Physics at IFSP and I decided to re-opt for the T
   
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Primeiro post do blog](https://felipefreitasdev.blogspot.com/2022/07/primeiro-post-do-blog.html)
 <!-- BLOG-POST-LIST:END -->
