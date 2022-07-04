@@ -30,7 +30,7 @@ I am an ex-graduate student in Physics at IFSP and I decided to re-opt for the T
 <a href="https://linkedin.com/in/felipeb-freitas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipeb-freitas" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16200899" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16200899" height="30" width="40" /></a>
 <a href="https://instagram.com/felipefreitas.dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="felipefreitas.dev" height="30" width="40" /></a>
-<a href="/https://felipefreitasdev.blogspot.com/feeds/posts/default?alt=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://felipefreitasdev.blogspot.com/feeds/posts/default?alt=rss" height="30" width="40" /></a>
+<a href="https://felipefreitasdev.blogspot.com/feeds/posts/default?alt=rss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://felipefreitasdev.blogspot.com/feeds/posts/default?alt=rss" height="30" width="40" /></a>
 </p>
   
 ### Blogs posts
