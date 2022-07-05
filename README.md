@@ -35,4 +35,5 @@ I am an ex-graduate student in Physics at IFSP and I decided to re-opt for the T
   
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [O primeiro post](https://felipefreitas.hashnode.dev/o-primeiro-post)
 <!-- BLOG-POST-LIST:END -->
