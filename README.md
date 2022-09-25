@@ -9,7 +9,7 @@ I am an ex-graduate student in Physics at IFSP and I decided to re-opt for the T
 
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>
 
-- 📝 I regularly write articles on [felipefreitasdev.blogspot.com](https://felipefreitasdev.blogspot.com)
+- 📝 I regularly write articles on [felipefreitas.hashnode.dev](https://felipefreitas.hashnode.dev)
 
 - 💬 Ask me about **Linux, VIM**
 
