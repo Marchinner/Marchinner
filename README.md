@@ -3,9 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marchinner&label=Profile%20views&color=0e75b6&style=flat" alt="marchinner" /> </p>
 
-- 🌱 I’m currently learning **Rust and Python**
+- 🎓 Bachelor's degree in **systems analysis and development**
 
-- 💬 Ask me about **vim, linux and Rust**
+- 🌱 I’m currently learning **Java and SQL**
+
+- 💬 Ask me about **vim** and **linux**
 
 - 📫 How to reach me **felipefreitasdev@gmail.com**
 
