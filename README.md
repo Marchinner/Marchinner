@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marchinner&label=Profile%20views&color=0e75b6&style=flat" alt="marchinner" /> </p>
 
-- 🎓 Bachelor's degree in **systems analysis and development**
+- 🎓 Bachelor's degree in **physics** and **systems analysis and development**
 
 - 🌱 I’m currently learning **Java and SQL**
 
 - 💬 Ask me about **vim** and **linux**
 
-- 📫 How to reach me **felipefreitasdev@gmail.com**
+- 📫 How to reach me **felipefreitasdev@outlook.com.br**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
