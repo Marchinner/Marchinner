@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marchinner&label=Profile%20views&color=0e75b6&style=flat" alt="marchinner" /> </p>
 
-- 🎓 Bachelor's degree in **physics** and **systems analysis and development**
+- 🎓 **systems analysis and development**
 
-- 🌱 I’m currently learning **Java and SQL**
+- 🌱 I’m currently learning **C++** and **Game Development**
 
 - 💬 Ask me about **vim** and **linux**
 
