@@ -5,7 +5,7 @@
 
 - 🎓 **systems analysis and development**
 
-- 🌱 I’m currently learning **C++** and **Game Development**
+- 🌱 I’m currently learning **C++**, **Java** and **Game Development**
 
 - 💬 Ask me about **vim** and **linux**
 
