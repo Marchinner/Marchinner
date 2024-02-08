@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marchinner&label=Profile%20views&color=0e75b6&style=flat" alt="marchinner" /> </p>
 
-- 🔭 I’m currently working on [JPong](https://github.com/Marchinner/JPong) and [JSpace Invaders](https://github.com/Marchinner/JSpaceInvaders)
+- 🔭 I’m currently working on [cpPong](https://github.com/Marchinner/cpPong)
 
-- 🌱 I’m currently learning **Java Game Development, Java Backend**
+- 🌱 I’m currently learning **C++, Unreal Engine and Blender**
 
-- 💬 Ask me about **Linux and Java Development**
+- 💬 Ask me about **Linux, Java, C++ and Game Development**
 
 - 📫 How to reach me **felipefreitasdev@outlook.com.br**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/felipefreitasdev/](https://www.linkedin.com/in/felipefreitasdev/)
+
+- :notebook: I weekly write blogposts about my learnings. [Here](https://marchinner.github.io/) is the link!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
