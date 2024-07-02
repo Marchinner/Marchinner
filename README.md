@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marchinner&label=Profile%20views&color=0e75b6&style=flat" alt="marchinner" /> </p>
 
-- 🌱 I’m currently learning **Java Spring, OpenGL and Blender**
+- 🌱 I’m currently learning **OpenGL with C++ and Blender**
 
 - 💬 Ask me about **Linux, Java, C++ and Game Development**
 
