@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Felipe Freitas</h1>
-<h3 align="center">Aspiring software developer with a passion for game development and a strong interest in backend development.</h3>
+<h3 align="center">Software developer with a passion for game development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marchinner&label=Profile%20views&color=0e75b6&style=flat" alt="marchinner" /> </p>
 
 - 🌱 I’m currently learning **OpenGL with C++ and Blender**
 
-- 💬 Ask me about **Linux, Java, C++ and Game Development**
+- 💬 Ask me about **Linux, C#, ASP.NET Core, Blazor, Java, C++ and Game Development**
 
 - 📫 How to reach me **felipefreitasdev@outlook.com.br**
 
